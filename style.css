@@ -1,0 +1,92 @@
+body {
+    background-color: #FF4C29;
+    background-image: url(images/backgroud_image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 1024px;
+    margin: auto;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+.logo {
+    width: 118px;
+}
+
+nav {
+    text-align: center;
+    background-color: #082032b7;
+    padding: 10px;
+}
+
+nav a {
+    font-family: 'Roboto',
+        sans-serif;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+main {
+    padding-top: 40px;
+    padding-left: 140px;
+    padding-right: 140px;
+    height: 400px;
+    text-align: center;
+
+}
+
+footer {
+    background-color: #082032b7;
+    height: 100px;
+    text-align: center;
+}
+
+footer p {
+
+    font-family: 'Roboto',
+        sans-serif;
+    font-size: 10px;
+    padding-top: 45px;
+    padding-bottom: 50px;
+
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-size: 80px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+a {
+    text-align: center;
+    font-family: 'Roboto',
+        sans-serif;
+    color: white;
+    font-size: 15px;
+}
+
+.maps{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+iframe {
+    padding-bottom: 20px;
+}
